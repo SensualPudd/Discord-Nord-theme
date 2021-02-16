@@ -9,6 +9,11 @@ A Nordified version of discord inspired by Spiceify's dribblish theme and built 
 
 ![Options](https://i.imgur.com/MpQrpfV.png)
 
+## Note
+
+I've used several plugins here
+For full effect I recommend at least one pluggin called [server hider](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ServerHider)
+
 ## Usage
 
 ## BetterDiscord
