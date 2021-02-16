@@ -4,12 +4,13 @@ A Nordified version of discord inspired by Spiceify's dribblish theme and built 
 ## Screenshots
 
 ![Theme in use](https://i.imgur.com/XnR71wn.png)
-![oOptions](https://i.imgur.com/MpQrpfV.png)
+![Options](https://i.imgur.com/MpQrpfV.png)
+![members area](https://media.giphy.com/media/KryZY5a4PVMXC7aEK5/giphy.gif)
 
 ## Usage
 
 ## BetterDiscord
 
-1. Download the BetterDiscord theme file from [here](https://github.com/DagCord/blob/main/BetterDiscord/Wildberry.theme.css).
+1. Download the BetterDiscord.
 2. Locate your BetterDiscord themes folder by clicking the "Open Themes Folder" button in your themes tab.
 3. Enable the theme.
