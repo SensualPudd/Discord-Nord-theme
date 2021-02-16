@@ -4,8 +4,10 @@ A Nordified version of discord inspired by Spiceify's dribblish theme and built 
 ## Screenshots
 
 ![Theme in use](https://i.imgur.com/XnR71wn.png)
-![Options](https://i.imgur.com/MpQrpfV.png)
+
 ![members area](https://media.giphy.com/media/KryZY5a4PVMXC7aEK5/giphy.gif)
+
+![Options](https://i.imgur.com/MpQrpfV.png)
 
 ## Usage
 
